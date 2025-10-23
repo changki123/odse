@@ -8,4 +8,3 @@ const server = http.createServer((req, res) => {
 server.listen(3000, () => {
   console.log('서버 실행 중: 3000번 포트');
 });
-EOF
